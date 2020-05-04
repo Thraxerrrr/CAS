@@ -1,0 +1,16 @@
+{
+	"name": "CAS",
+	"description": "CAS - Customizable Attachment System",
+	"changeNote": "",
+	"author": "Thraxerrrr",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 0,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 0,
+	"folderName": "CAS",
+	"revisionNumber": 219255,
+	"snapshotId": 24964
+}
