@@ -1,7 +1,7 @@
 # CAS
 
 ### What is CAS?
-This mod for Conan Exiles adds a new inventory panel to your character, allowing you to equip much more than the 5 standard armor slots.
+This mod for [Conan Exiles](https://www.conanexiles.com) adds a new inventory panel to your character, allowing you to equip much more than the 5 standard armor slots.
 There are two types of items that can be equipped:
 
 - **Cosmetic items**: sheathed weapons, jewellery, masks, smoking pipes, etc.
