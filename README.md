@@ -41,6 +41,8 @@ Once you have learned these feats, you can craft the items in various crafting s
 
 As you may have noticed, many of the slots have no specific use yet. This will change, as I have plans to add a million more things!
 
+* **Thrall support** so that you can overload your thralls with weapons and cosmetics until you don't recognize them anymore.
+
 * **More pouches** to choose from, with novel effects: herbalist's pouches that increase spoil timers, hunter's pouches that affect the behaviour of wildlife, etc.
 
 * **A backpack system**. Better backpacks offer more slots to attach cosmetics to. The backpack itself may offer functional benefits, such as an encumbrance bonus.
@@ -49,4 +51,4 @@ As you may have noticed, many of the slots have no specific use yet. This will c
 
 * **Rings and other jewellery**. There already is some vanilla jewellery available in the form of armor items. Also, a number of mods add more jewellery items, either as armor or *equippable* items. I want all of them to work with the CAS slots.
 
-* **Cloaks**. Or how else could you look fabulous, if not with a cloak flapping in the wind behind you??
+* **Cloaks**. Or how else could you look fabulous, if not with a cloak flapping in the wind behind you???
