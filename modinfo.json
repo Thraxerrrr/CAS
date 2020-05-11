@@ -1,7 +1,7 @@
 {
 	"name": "CAS",
 	"description": "CAS - Customizable Attachment System\n\nAll information at: https://thraxerrrr.github.io/CAS/",
-	"changeNote": "* Added support for thralls\n* Added support for attaching armor pieces\n* Fixed several attachment position issues",
+	"changeNote": "* Added support for thralls\n* Added support for attaching armor pieces\n* Fixed several attachment positioning issues",
 	"author": "Thraxerrrr",
 	"authorUrl": "https://thraxerrrr.github.io/CAS/",
 	"versionMajor": 0,
