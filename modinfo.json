@@ -1,11 +1,11 @@
 {
 	"name": "CAS",
 	"description": "CAS - Customizable Attachment System\n\nAll information at: https://thraxerrrr.github.io/CAS/",
-	"changeNote": "This is the first release!",
+	"changeNote": "* Added support for thralls\n* Added support for attaching armor pieces\n* Fixed several attachment position issues",
 	"author": "Thraxerrrr",
 	"authorUrl": "https://thraxerrrr.github.io/CAS/",
 	"versionMajor": 0,
-	"versionMinor": 1,
+	"versionMinor": 2,
 	"versionBuild": 1,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2086135111",
