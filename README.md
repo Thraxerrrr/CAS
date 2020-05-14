@@ -1,7 +1,7 @@
 # CAS
 
 ### What is CAS?
-This mod for [Conan Exiles](https://www.conanexiles.com) adds a new inventory panel to your character, allowing you to equip much more than the 5 standard armor slots.
+This mod for [Conan Exiles](https://www.conanexiles.com) adds a new inventory panel to your character and thralls, allowing you to equip much more than the 5 standard armor slots.
 There are two types of items that can be equipped:
 
 - **Cosmetic items**: sheathed weapons, jewellery, masks, smoking pipes, etc.
@@ -40,8 +40,6 @@ Once you have learned these feats, you can craft the items in various crafting s
 ## Roadmap
 
 As you may have noticed, many of the slots have no specific use yet. This will change, as I have plans to add a million more things!
-
-* **Thrall support** so that you can overload your thralls with weapons and cosmetics until you don't recognize them anymore.
 
 * **More pouches** to choose from, with novel effects: herbalist's pouches that increase spoil timers, hunter's pouches that affect the behaviour of wildlife, etc.
 
