@@ -7,7 +7,7 @@ There are two types of items that can be equipped:
 - **Cosmetic items**: sheathed weapons, jewellery, masks, smoking pipes, etc.
 - **Functional items**: wearables that offer a buff or boost to your character.
 
-![alt](docs/images/cas_inventory_1.jpg)
+![alt](docs/images/cas_inventory_2.jpg)
 
 ### Which items can I equip?
 
