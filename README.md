@@ -31,13 +31,15 @@ Once you have learned these feats, you can craft the items in various crafting s
 
 ### For Admins and Modders
 
+- The ID of this mod is `2086135111`
+
 - This mod uses the item range `642000` - `642100`
 
 - One of my main goals for this mod is to be *extensible*. I want items from other mods to be CAS-compatible. My first idea was to use static mesh sockets for this purpose, but unfortunately, Unreal Engine 4.19 is somewhat limited in this regard: the `Find Socket` blueprint function is only available from [4.22](https://docs.unrealengine.com/en-US/Support/Builds/ReleaseNotes/4_22/index.html) onward. I am currently investigating other approaches. Please let me know if you have ideas!
 
 - This mod is open source! You can find the Unreal assets here on GitHub. Feel free to take a look around, clone the repo, and try it out for yourself in the Conan Exiles devkit. I am always looking to improve the code, so any feedback is welcome! Or, if you are feeling generous, why not send me a pull request with fixes, improvements or new features? ;)
 
-## Roadmap
+## [Roadmap](#Roadmap)
 
 As you may have noticed, many of the slots have no specific use yet. This will change, as I have plans to add a million more things!
 
