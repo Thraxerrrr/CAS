@@ -1,16 +1,16 @@
 {
 	"name": "CAS",
 	"description": "CAS :: Customizable Attachment System\n\n|| Documentation || --> https://thraxerrrr.github.io/CAS/\n|| Discord || --> https://discord.gg/y8Hba9j",
-	"changeNote": "New:\n* Physics enabled on most belt weapons\n* Cosmetic: Spiked Collar\n* Cosmetic: Potion Pouch for belt\n* Cosmetic: Wooden Flask for belt\nFixed:\n* Reverted the inversion (whoa!) of axes and maces on belts\n* Throwing axe positioning on belt\n* Skin tinting issue when attaching layered armors\n* Cleanup of attachments on player logout (again, third time's the charm!)\n* Vampire teeth positioning on female characters",
+	"changeNote": "New:\n* Cloaks (customizable, with physics)\n* Mind Flayer head\n* For modders: DataCommand to tune item positions\nFixed:\n* Cleanup of attachments on player logout (fourth time's the charm!)",
 	"author": "Thraxerrrr",
 	"authorUrl": "https://thraxerrrr.github.io/CAS/",
 	"versionMajor": 0,
-	"versionMinor": 5,
-	"versionBuild": 2,
+	"versionMinor": 6,
+	"versionBuild": 4,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2086135111",
 	"steamVisibility": 0,
 	"folderName": "CAS",
-	"revisionNumber": 221995,
-	"snapshotId": 25124
+	"revisionNumber": 243819,
+	"snapshotId": 26326
 }
