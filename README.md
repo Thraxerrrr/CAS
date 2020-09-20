@@ -6,6 +6,10 @@ CAS ("Customizable Attachment System") is a mod for [Conan Exiles](https://www.c
 
 ![alt](docs/images/cas_inventory.jpg)
 
+To open the CAS inventory, open your regular inventory and look for the CAS button below the character's paperdoll:
+
+![alt](docs/images/cas_button.jpg)
+
 ### Which items can I equip?
 
 #### Weapons
