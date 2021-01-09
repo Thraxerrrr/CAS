@@ -1,16 +1,16 @@
 {
 	"name": "CAS",
-	"description": "CAS :: Customizable Attachment System\n\n|| Documentation || --> https://thraxerrrr.github.io/CAS/\n|| Discord || --> https://discord.gg/y8Hba9j",
-	"changeNote": "New:\n* Cloaks (customizable, with physics)\n* Compatible with Isles Of Siptah\n* For modders: DataCommand to tune item positions",
+	"description": "CAS :: Customizable Attachment System\n\nAttach a variety of decorative items to your characters and thralls!\nThis includes: belts, pouches, backpacks, sheathed weapons, layered armor, cloaks, glasses, smoking pipes, etc.\nCheck the documentation link below for an overview of all features!\n\n|| Documentation || --> https://thraxerrrr.github.io/CAS/\n|| Discord || --> https://discord.gg/y8Hba9j",
+	"changeNote": "* Added a third back weapon slot (for witcher-style sword sheathing)\n* Added wearable glasses (contributed by the inimitable Melonpan)\n* Added new belt attachables: coin purse, book, potion bottle\n* Added new backpack attachable: bedroll\n* Added a toggle to hide all attachments\n* Improved drag and drop behaviour in the CAS inventory\n* Improved the CAS item icons\n* Fixed: unequipping belt or backpack will now also unequip all items attached to them",
 	"author": "Thraxerrrr",
 	"authorUrl": "https://thraxerrrr.github.io/CAS/",
 	"versionMajor": 0,
-	"versionMinor": 7,
+	"versionMinor": 8,
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2086135111",
 	"steamVisibility": 0,
 	"folderName": "CAS",
-	"revisionNumber": 255795,
-	"snapshotId": 26931
+	"revisionNumber": 265775,
+	"snapshotId": 27373
 }
