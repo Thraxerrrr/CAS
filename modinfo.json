@@ -1,16 +1,16 @@
 {
 	"name": "CAS",
 	"description": "CAS :: Customizable Attachment System\n\nAttach a variety of decorative items to your characters and thralls!\nThis includes: belts, pouches, backpacks, sheathed weapons, layered armor, cloaks, glasses, smoking pipes, etc.\nCheck the documentation link below for an overview of all features!\n\n|| Documentation || --> https://thraxerrrr.github.io/CAS/\n|| Discord || --> https://discord.gg/y8Hba9j",
-	"changeNote": "* Updated for game version 2.7\n* Fixed: missing materials on certain attached armors\n* Fixed: singleplayer game crashes when thrall dies",
+	"changeNote": "* Added Half Masks (contributed by Melonpan)\n* Updated documentation page",
 	"author": "Thraxerrrr",
 	"authorUrl": "https://thraxerrrr.github.io/CAS/",
 	"versionMajor": 0,
-	"versionMinor": 9,
-	"versionBuild": 2,
+	"versionMinor": 10,
+	"versionBuild": 1,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2086135111",
 	"steamVisibility": 0,
 	"folderName": "CAS",
-	"revisionNumber": 337372,
-	"snapshotId": 31794
+	"revisionNumber": 348928,
+	"snapshotId": 32447
 }
