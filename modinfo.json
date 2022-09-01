@@ -1,16 +1,18 @@
 {
 	"name": "CAS",
 	"description": "CAS :: Customizable Attachment System\n\nAttach a variety of decorative items to your characters and thralls!\nThis includes: belts, pouches, backpacks, sheathed weapons, layered armor, cloaks, glasses, smoking pipes, etc.\nCheck the documentation link below for an overview of all features!\n\n|| Documentation || --> https://thraxerrrr.github.io/CAS/\n|| Discord || --> https://discord.gg/FtWrKAZ",
-	"changeNote": "* Added Half Masks (contributed by Melonpan)\n* Updated documentation page",
+	"changeNote": "v0.11.0\n\n* Updated for compatibility with game version 3.0\n* New: 2 new lanterns! Can be worn on belt or backpack, have jiggly physics, and lights can be toggled on/off using Shift+L\n* Fix: improved performance of attachments on crowded servers",
 	"author": "Thraxerrrr",
 	"authorUrl": "https://thraxerrrr.github.io/CAS/",
 	"versionMajor": 0,
-	"versionMinor": 10,
-	"versionBuild": 1,
+	"versionMinor": 11,
+	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2086135111",
+	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 0,
 	"folderName": "CAS",
-	"revisionNumber": 348928,
-	"snapshotId": 32447
+	"revisionNumber": 408177,
+	"snapshotId": 34671,
+	"fileSize": -2
 }
