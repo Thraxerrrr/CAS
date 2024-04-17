@@ -1,18 +1,18 @@
 {
 	"name": "CAS",
 	"description": "CAS :: Customizable Attachment System\n\nAttach a variety of decorative items to your characters and thralls!\nThis includes: belts, pouches, backpacks, sheathed weapons, layered armor, cloaks, glasses, smoking pipes, etc.\nCheck the documentation link below for an overview of all features!\n\n|| Documentation || --> https://thraxerrrr.github.io/CAS/\n|| Discord || --> https://discord.gg/FtWrKAZ",
-	"changeNote": "v0.12.3\n\n* Updated for compatibility with Age of War Chapter 3",
+	"changeNote": "v0.12.4\n\n* Updated for compatibility with Age of War Chapter 4\n* Fixed: moved the CAS inventory button to the top left to avoid overlap with other mod widgets\n* Fixed: transmogged weapons and armor will now use the proper visuals when attached through CAS",
 	"author": "Thraxerrrr",
 	"authorUrl": "https://thraxerrrr.github.io/CAS/",
 	"versionMajor": 0,
 	"versionMinor": 12,
-	"versionBuild": 3,
+	"versionBuild": 4,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2086135111",
 	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 0,
 	"folderName": "CAS",
-	"revisionNumber": 612434,
-	"snapshotId": 39641,
+	"revisionNumber": 753186,
+	"snapshotId": 40890,
 	"fileSize": -2
 }
